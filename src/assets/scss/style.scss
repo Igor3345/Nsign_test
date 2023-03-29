@@ -1,0 +1,17 @@
+/* Default Styles */
+@import 'custom';
+@import 'fonts';
+@import 'variables';
+@import 'layouts';
+@import 'vendors';
+@import 'forms';
+@import 'header';
+@import 'footer';
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    box-sizing: border-box;
+}
+
